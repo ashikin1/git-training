@@ -1,1 +1,2 @@
 ini line selepas satu
+ini line selepas dua
